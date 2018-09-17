@@ -1,5 +1,5 @@
 # Desenvolvendo uma API RESTful com Node + Express & MongoDB
-
+ ** Não esquecer de dar NPM I
 
 ## Recursos utilizados no desenvolvimento:
 
